@@ -1,7 +1,40 @@
-h2{
-    background-color: blanchedalmond;
+h1, h2{
+    background-color: rgb(91, 90, 87);
+    color: antiquewhite;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
     border-radius: 35px;
     text-align: center;
+}
+
+img{
+    align-items:baseline;
+    width: 50%;
+    height: auto;
+    padding-left: 25%;
+}
+
+
+
+ul{
+    background-color: antiquewhite;
+    border-radius: 35px;
+    padding-left: 25%;
+}
+
+p{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 25%;
+    list-style-type: none;
+    font-weight: 900;
+    font-style: normal;
+}
+
+li{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style-type: none;
+    font-weight: 900;
+    font-style: normal;
 }
